@@ -1,0 +1,52 @@
+0.ton 0.cl N.common N.common 0.ton V
+N.common N.neuter 0.ton V 0.cl 0.cl N.neuter 0.ton 0.ton V N.common 0.cl 0.cl 0.cl 0.ton 0.ton V 0.ton 0.cl PRO.pron_adj N.common N.common 0.ton N.common N.neuter V 0.ton N.common N.common V - N.common N.neuter V
+0.cl 0.cl PRO.pron_adj N.common N.common PRO.pron_adj 0.cl N.common 0.ton V PRO.pron_adj 0.cl 0.cl 0.cl N.common N.common N.common PRO.pron_adj 0.ton V
+PRO.pers.1p.sg PRO.pron_cl.1p.sg N.common N.common V N.common
+0.ton 0.cl PRO.pron_cl.1p.sg PRO.pron_adj N.common N.common 0.cl V 0.ton PRO.pron_adj 0.cl 0.cl PRO.pron_cl.1p.sg N.common N.neuter 0.ton V
+N.common N.common PRO.pers.1p.sg 0.cl PRO.pron_cl.1p.sg N.common A N.common
+0.ton 0.cl 0.cl PRO.pron_cl.2p.sg 0.cl 0.ton 0.ton V
+N 0.cl 0.cl PRO.pron_cl.1p.sg N.common 0.ton V
+PRO.pers.1p.sg 0.cl 0.cl PRO.pron_cl.1p.sg 0.ton N.common
+0.ton 0.cl 0.cl PRO.pron_cl.2p.sg 0.cl 0.ton 0.ton 0.ton V 0.ton 0.cl 0.cl PRO.pron_cl.1p.sg 0.cl 0.ton PRO.pron_adj V
+0.cl PRO.pron_cl.2p.pl PRO.pers.2p.pl N.common V
+0.ton 0.cl N.common N.common 0.cl 0.ton V
+0.cl PRO.pron_cl.1p.sg A N.neuter V N.common
+V N.common N.common N.common N.common N.common A N.common
+PRO.pron_adj 0.cl 0.cl PRO.pron_cl.1p.sg N.common N.neuter V
+0.ton 0.cl N.common N.common V PRO.pron_adj 0.cl 0.cl N.common N.common V
+0.ton 0.cl PRO.pron_cl.1p.sg N.common N.common 0.ton N.common V
+0.cl PRO.pron_cl.3p.sg N.common V 0.ton 0.cl 0.cl PRO.pron_cl.1p.sg PRO.pron_cl.3p.sg 0.cl 0.ton V 0.ton 0.cl PRO.pron_adj N.common V 0.cl PRO.pron_cl.3p.sg 0.cl 0.ton 0.ton V PRO.pron_adj N.common
+0.cl PRO.pron_cl.3p.sg N.common V
+0.ton 0.cl PRO.pron_cl.1p.sg 0.cl PRO.pron_adj A N.neuter 0.ton V 0.ton 0.cl PRO.pron_cl.1p.sg N.common 0.ton V
+0.ton 0.cl 0.cl A - N.common 0.ton 0.ton V 0.ton 0.cl N V
+0.ton 0.cl N.common V
+0.ton 0.cl 0.cl 0.ton A N.common 0.ton 0.ton V 0.ton 0.cl 0.cl 0.cl A N.common 0.ton 0.ton V
+PRO.pron_adj 0.cl N.neuter N.common N.common 0.ton V
+N.common N.common N.common 0.ton N.common V 0.ton 0.cl N.common A V 0.ton 0.cl 0.cl N.common 0.ton V
+0.ton 0.cl PRO.pron_cl.1p.pl V 0.ton 0.cl 0.cl V 0.ton 0.cl 0.cl V N.common N.common 0.cl N.neuter
+PRO.pers.1p.sg 0.cl 0.cl PRO.pron_cl.3p.pl N.common V 0.ton 0.cl 0.cl PRO.pron_cl.3p.pl 0.cl V 0.ton 0.cl 0.cl PRO.pron_cl.3p.pl V N.common 0.ton PRO.pron_adj 0.cl N.common 0.ton 0.cl A 0.ton 0.ton 0.ton V
+0.ton 0.cl PRO.pron_adj N.neuter N.common N.common 0.cl A 0.cl N.common V 0.ton 0.cl 0.cl V N.common A 0.cl N.neuter
+0.ton 0.cl PRO.pron_cl.1p.sg 0.ton N.common N.common 0.cl V PRO.pron_adj N.neuter V
+PRO.pron_cl.3p.pl V - - - PRO.pron_adj N.neuter
+V 0.cl 0.cl PRO.pron_cl.3p.sg N.common 0.ton V PRO.pron_adj 0.cl 0.cl N.neuter N.common N.common A N.neuter A 0.cl N.common N.neuter 0.cl 0.cl N.neuter V 0.cl 0.cl PRO.pron_cl.3p.sg PRO.pron_adj N.common 0.ton
+0.ton 0.cl N.neuter N 0.ton N.common V
+PRO.pers.1p.sg PRO.pron_cl.3p.sg 0.cl PRO.pron_adj N.common N - 0.ton 0.cl PRO.pron_cl.3p.sg N.neuter V N.common 0.cl 0.cl PRO.pron_cl.3p.sg N.common 0.cl N.common V
+PRO.pron_cl.1p.sg 0.cl PRO.pron_adj V 0.ton 0.cl PRO.pron_cl.3p.sg N.common N.common V
+PRO.pron_adj 0.cl N.neuter N.common A -
+0.ton 0.cl N.common A N.common 0.ton V PRO.pers.1p.sg 0.cl 0.cl PRO.pron_adj N.common V
+0.cl 0.cl PRO.pron_cl.1p.sg PRO.pron_adj N.common 0.ton 0.cl PRO.pron_cl.3p.sg 0.ton N.common V N.neuter 0.cl 0.cl PRO.pron_cl.3p.sg V
+0.cl 0.cl N.common 0.ton 0.ton V 0.ton 0.cl 0.cl 0.ton V 0.ton 0.cl PRO.pron_cl.1p.sg PRO.pron_adj N.common PRO.pron_adj 0.ton 0.ton V 0.ton 0.cl 0.cl PRO.pron_adj PRO.pron_adj N.neuter 0.ton V PRO.pron_adj 0.cl 0.cl 0.cl PRO.pron_adj N.neuter 0.ton V
+0.ton 0.cl PRO.pron_cl.1p.sg 0.ton N.common PRO.pron_adj A N.neuter V 0.ton 0.cl PRO.pron_adj A N.common 0.ton PRO.pron_adj N.common N.common 0.ton 0.ton V 0.ton 0.cl PRO.pron_cl.3p.sg PRO.pron_adj N.common 0.ton 0.ton V 0.ton 0.cl PRO.pron_cl.3p.sg PRO.pers.1p.sg N.common A N.neuter N.common N.common 0.ton 0.ton V 0.cl PRO.pron_cl.1p.sg 0.cl A N.neuter 0.ton V 0.ton 0.cl 0.cl PRO.pron_adj N.common N.neuter 0.ton N.common N.common 0.cl 0.ton V
+0.ton 0.cl 0.cl PRO.pron_cl.3p.sg 0.cl PRO.pron_adj N.common V 0.ton 0.cl PRO.pron_adj N.common N 0.cl PRO.pron_cl.3p.pl 0.ton N.common N.common V PRO.pron_adj 0.cl 0.cl PRO.pron_cl.3p.pl N.common N 0.cl PRO.pron_cl.3p.pl 0.ton N.common N.common V
+PRO.pron_adj 0.cl 0.cl N.common N.common PRO.pers.1p.sg N.common V N.common N.common N.neuter
+N.common N.common N.common
+N.common A - N.common N.common N.common
+0.ton 0.cl PRO.pron_adj N.neuter - N V V
+PRO.pron_adj 0.cl 0.cl N.common N.common PRO.pers.1p.sg V 0.cl PRO.pron_cl.3p.sg N.common N.common A N.common A N.common V
+0.cl 0.cl PRO.pron_adj N V V A N.common 0.ton V
+PRO.pron_adj 0.cl 0.cl N.neuter PRO.pron_adj N V 0.cl PRO.pron_cl.3p.sg 0.cl PRO.pron_adj N.common 0.ton V
+PRO.pron_adj 0.cl N.neuter PRO.pers.1p.sg N.common N.common A N.common A A N.common N.common V
+PRO.pron_adj 0.cl N.neuter N.neuter - N.common
+0.cl PRO.pron_cl.1p.sg 0.cl PRO.pron_adj N.common N.common 0.ton V 0.ton 0.cl PRO.pron_cl.1p.sg 0.cl N.common 0.ton V 0.cl PRO.pron_cl.1p.sg 0.cl N.common N.common 0.ton V 0.cl PRO.pron_cl.1p.sg N.neuter N.common V
+0.ton 0.cl PRO.pron_cl.3p.sg V 0.ton 0.cl PRO.pron_cl.3p.sg PRO.pron_adj N V 0.cl PRO.pron_cl.3p.sg N.common N.common 0.ton V N.common 0.cl 0.cl 0.ton V
+PRO.pron_adj 0.cl 0.cl N.common 0.ton 0.ton V PRO.pron_adj 0.cl 0.cl 0.cl N.common N.common N.common A V

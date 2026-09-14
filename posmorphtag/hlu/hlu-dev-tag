@@ -1,0 +1,52 @@
+PRO.pers.1p.sg-nom - N.common-gen N.neuter-stem A-nom.sg.common N.common-nom.sg
+N.common-nom.sg N-dat.sg 0.ton V-fin.pst.act.3p.sg
+0.ton 0.cl PRO.pron_adj-acc.sg.common N.neuter-poss.acc.sg.common A-acc.sg.common -
+0.ton 0.cl PRO.pron_cl.1p.sg-dat 0.cl N.common-nom.pl N-ins 0.ton -
+0.ton 0.cl PRO.pron_adj-acc.sg.common N.common-acc.sg N.common-acc.sg 0.ton -
+0.ton 0.cl - PRO.pron_adj-dat.sg N.common-dat.sg A-dat.sg N.common-dat.sg N.common-acc.sg V-fin.pst.act.1p.sg A-nom.sg.common 0.cl N.common-nom.sg PRO.pers.1p.sg-dat A-nom.sg.common V-fin.pst.med.3p.sg
+- N.common-nom.sg N.common-nom.sg N.common-nom.sg N.common-nom.sg N.common-nom.sg 0.cl N.common-nom.sg 0.ton V-fin.imper.act.3p.sg
+V-fin.imper.act.2p.sg N.common-dat.sg N.common-nom.sg 0.cl V-fin.prs.act.3p.sg
+PRO.pers.1p.pl-nom 0.cl 0.cl PRO.pron_cl.1p.pl-datrefl 0.ton N.common-dat.sg
+0.cl PRO.pron_cl.1p.sg-dat N.common-acc.sg 0.ton 0.ton V-fin.pst.act.2p.sg
+0.ton 0.cl 0.cl PRO.pron_cl.1p.sg-dat A-acc.pl.neuter N.neuter-acc.pl N.common-acc.pl A-acc.pl.common 0.ton 0.cl A-acc.pl.common N.common-acc.pl A-dat.sg N-sg.dat V-fin.imper.act.2p.sg
+V-fin.imper.act.2p.sg N.common-dat.sg N.common-nom.sg 0.cl - -
+N-gen 0.cl 0.cl PRO.pron_cl.2p.sg-sg.datrefl PRO.pers.2p.pl-nom 0.cl PRO.pron_cl.2p.pl-datrefl N.common-dat.sg
+0.ton 0.cl 0.ton PRO.pron_adj-acc.sg.common 0.ton N.common-acc.sg V-fin.prs.med.2p.pl
+0.cl PRO.pron_cl.1p.pl-datrefl 0.ton PRO.pers.1p.pl-nom 0.cl N.common-dat.sg
+0.ton 0.cl PRO.pron_cl.3p.sg-acc.common PRO.pers.1p.sg-nom 0.ton V-fin.prs.act.1p.sg PRO.pron_adj-acc.sg.common PRO.pron_adj-acc.sg.common N.common-acc.sg
+0.ton 0.cl 0.cl PRO.pron_cl.2p.pl-dat PRO.pers.2p.pl-obl
+PRO.pers.1p.sg-nom PRO.pron_cl.1p.sg-datrefl N.common-nom.sg N.common-poss.nom.sg A-nom.sg.common N.common-nom.sg N-ins N.common-ins 0.cl 0.ton V-ptcp.nom.sg.common N.common-nom.sg
+PRO.pron_adj-nom.pl.common 0.cl 0.cl N.common-nom.pl N.common-nom.pl 0.cl PRO.pron_adj-nom.pl.common V-fin.pst.act.3p.pl 0.ton 0.cl N.common-nom.sg 0.ton PRO.pron_adj-acc.sg.common V-fin.prs.act.3p.sg PRO.pers.1p.sg-acc 0.cl 0.ton V-fin.prs.act.3p.sg 0.cl PRO.pron_cl.1p.sg-dat N.common-acc.pl 0.ton V-inf V-fin.prs.act.3p.sg
+0.ton V-fin.prs.act.3p.sg 0.cl PRO.pron_cl.1p.sg-dat PRO.pron_cl.3p.sg-nom.common 0.cl 0.ton 0.ton V-fin.prs.act.3p.sg - N.common-dat.sg 0.cl PRO.pron_cl.1p.sg-dat 0.ton N.common-nom.sg N.common-nom.sg N.neuter-nom.sg
+PRO.pron_adj-acc.sg.common 0.cl N.common-acc.sg N.common-acc.sg PRO.pers.1p.sg-nom N.common-nom.sg N.common-gen A-nom.sg.common N.common-nom.sg N.common-gen N.common-nom.sg V-fin.pst.act.1p.sg
+PRO.pers.1p.sg-nom N.common-nom.sg - N.common-gen A-nom.sg.common N.common-nom.sg N.common-gen N.common-nom.sg A-nom.sg.common N.neuter-stem N.common-nom.sg
+PRO.pron_adj - N.common-nom.sg N.common-nom.sg V-fin.pst.act.3p.sg A-nom.sg.common - N.common-nom.sg
+0.ton 0.cl PRO.pers.1p.sg-nom V-fin.pst.act.1p.sg PRO.pron_adj-acc.sg.neuter N.neuter-acc.sg N.common-nom.pl PRO.pron_adj-acc.sg.neuter V-fin.pst.act.3p.pl
+PRO.pers.1p.sg-nom PRO.pron_cl.1p.sg-datrefl N.common-nom.sg N.common-gen N.common-nom.sg A-nom.sg.common N.common-nom.sg
+PRO.pron_adj-nom.sg.neuter 0.cl N.common-nom.sg N.common-gen A-nom.sg.neuter N.neuter-nom.sg V-fin.pst.act.3p.sg 0.cl 0.cl PRO.pron_cl.3p.sg-acc.common N.common-nom.sg N.common-gen V-ptcp.nom.sg.common
+PRO.pers.1p.sg-nom PRO.pron_cl.1p.sg-datrefl N.common-nom.sg N.common-nom.sg A-nom.sg.common N.neuter N.common-nom.sg
+PRO.pron_adj-acc.pl.common N.common-acc.pl - PRO.pron_adj-ins N.neuter-ins - N.common-acc.sg - N.common-acc.sg N.common-acc.sg
+N-dat.sg 0.ton N-gen N.neuter-acc.sg V-fin.pst.act.1p.sg N 0.ton V-fin.pst.act.1p.sg N.common-acc.sg V-fin.pst.act.1p.sg N.neuter-nom.sg PRO.pron_cl.1p.sg-dat 0.ton V-fin.prs.act.3p.sg N.neuter-dat.pl N.common-dat.pl N.common-nom.pl 0.ton V-fin.prs.act.3p PRO.pron_adj-nom.sg.common 0.cl 0.cl 0.ton PRO.pron_adj-nom.sg.common N.common-nom.sg PRO.pron_adj-dat.sg A-dat.sg 0.ton 0.cl N.common-dat.sg V-fin.prs.act.3p.sg 0.ton 0.cl PRO.pron_cl.3p.pl-acc N.common-dat.pl N.common-acc.pl V-fin.prs.act.3p.sg 0.ton 0.cl PRO.pron_cl.3p.sg-nom.common N.common-dat.sg N.common-gen N.common-nom.sg V-fin.imper.act.3p
+0.ton 0.cl 0.cl N.neuter-dat.pl PRO.pron_adj-dat.pl N.neuter-acc.pl 0.ton 0.ton 0.ton V-fin.prs.act.3p.sg
+PRO.pron_adj-acc.sg.neuter 0.cl N.neuter-acc.sg - V-fin.pst.act.3p.sg N.common-nom.sg
+0.ton 0.cl PRO.pron_adj-nom.sg.common N.common-nom.sg PRO.pron_adj-nom.sg.common A-nom.sg.common A-nom.sg.common N.common-gen V-fin.pst.act.3p 0.ton 0.cl PRO.pron_cl.3p.sg-nom.common A-nom.sg.common 0.ton V-fin.pst.med.3p.sg 0.ton 0.cl PRO.pron_cl.3p.sg-acc.common N.common-poss.dat.pl N.common-dat.pl 0.ton V-fin.pst.act.1p.sg 0.ton 0.cl PRO.pron_cl.3p.pl-dat PRO.pron_adj-acc.sg.common A-acc.sg.common N.common-acc.sg N.common-acc.sg PRO.pron_adj-acc.pl.neuter 0.cl 0.cl A-acc.pl.neuter N.neuter-acc.pl A-acc.pl.neuter 0.ton 0.cl PRO.pron_cl.1p.sg-datrefl PRO.pron_cl.3p.sg-acc.common V-fin.pst.act.1p.sg
+0.ton 0.cl PRO.pron_adj-dat.sg N.common-dat.sg A-acc.sg.common N.common-acc.sg V-fin.pst.act.1p.sg PRO.pron_adj-dat.pl 0.cl 0.cl 0.cl N.neuter-dat.pl PRO.pron_adj-nom.pl.common N.common-nom.pl N.common-nom.pl N.common-nom.pl 0.cl 0.ton V-fin.pst.med.3p.pl PRO.pers.1p.sg-acc 0.cl 0.cl PRO.pron_adj-nom.sg.common N.common-nom.sg N.neuter-poss.nom.sg.common N.common-nom.sg N.common-nom.sg N.common-nom.sg 0.cl PRO.pron_adj-ins N.common-ins V-fin.pst.act.3p.pl 0.ton 0.cl PRO.pron_cl.1p.sg-dat PRO.pron_cl.3p.pl-nom 0.cl N-dat.sg V-fin.pst.act.3p.pl 0.ton 0.cl PRO.pron_cl.1p.sg-dat PRO.pron_cl.3p.pl-nom 0.ton V-fin.pst.act.3p.pl 0.ton 0.cl PRO.pron_adj-acc.pl.neuter N.neuter-acc.pl V-fin.pst.act.1p.sg 0.ton 0.cl 0.cl N.common-acc.pl 0.ton V-fin.pst.act.1p.sg 0.ton 0.cl PRO.pron_adj-ins N.neuter-ins A-nom.sg.common 0.ton V-fin.pst.act.1p.sg PRO.pron_adj-acc.pl.common 0.cl 0.cl PRO.pron_cl.1p.sg-datrefl N.common-acc.pl PRO.pron_adj-dat.sg N.common-dat.sg V-fin.pst.act.1p.sg
+PRO.pron_adj-nom.sg.common PRO.pron_adj-dat.sg N.neuter-poss.dat.sg N.common-dat.sg N.common-dat.pl 0.ton A-acc.sg.common
+0.cl PRO.pron_cl.1p.sg-dat PRO.pron_adj-acc.sg.neuter N.neuter-acc.sg 0.ton V-fin.pst.act.1p.sg
+0.cl 0.cl N.neuter-ins N-dat.sg PRO.pron_adj-dat.pl N.common-nom.pl 0.ton N.common-nom.sg N.common-nom.sg 0.ton N-dat.sg V-fin.prs.act.3p.sg
+PRO.pron_adj-dat.sg 0.cl 0.cl N.neuter-dat.sg PRO.pron_adj-nom.sg.common 0.ton V-fin.prs.act.3p.sg 0.cl PRO.pron_cl.3p.sg-dat N.common-nom.sg 0.ton V-fin.prs.act.3p.sg 0.cl PRO.pron_cl.3p.sg-dat 0.cl - -
+0.ton 0.cl N.common-nom.pl PRO.pron_adj-acc.sg.neuter N.neuter-acc.sg PRO.pron_adj-ins N.common-ins N.common-nom.sg N.common-nom.sg 0.cl N.neuter-dat.sg V-fin.pst.act.3p.pl PRO.pron_adj-acc.sg.neuter 0.cl 0.cl 0.cl N.neuter-acc.sg N.common-nom.pl 0.ton V-fin.pst.act.3p.pl 0.cl PRO.pron_cl.1p.sg-dat PRO.pron_cl.3p.sg-acc.neuter 0.ton N-dat.sg V-fin.pst.act.3p.pl 0.ton 0.cl 0.cl PRO.pron_cl.3p.sg-acc.neuter N-dat.sg V-fin.pst.act.3p.pl 0.ton 0.cl 0.cl N-dat.pl N-dat.pl N-dat.pl 0.cl V-fin.pst.act.3p.pl 0.cl 0.cl PRO.pron_adj-dat.sg N.common-dat.sg N.common-acc.pl 0.ton V-fin.pst.act.1p.sg
+N.common-nom.sg N.common-nom.sg
+N.common-nom.sg N.common-nom.sg N.common-nom.sg N.common-nom.sg A-nom.sg.common N.common-nom.sg N-gen A-nom.sg.common A-nom.sg.common N.common-nom.sg 0.ton 0.cl PRO.pron_cl.3p.sg-dat 0.cl N-ins N.common-nom.sg 0.ton V-fin.pst.act.3p.sg
+N.neuter-dat.pl PRO.pron_adj-nom.sg.common N.common-acc.sg V-fin.pst.act.1p.sg 0.ton 0.cl PRO.pron_cl.3p.sg-nom.common 0.cl N.common - 0.cl N.common-nom.sg PRO.pron_adj-poss.ins N.neuter-ins V-fin.pst.act.3p.sg A-nom.sg.common 0.cl 0.cl PRO.pron_cl.3p.sg-dat 0.cl N.common-nom.sg - 0.cl PRO.pron_cl.3p.sg-dat N.neuter-ins 0.cl 0.cl PRO.pron_cl.3p.sg-dat PRO.pron_cl.3p.pl-nom 0.cl 0.ton 0.cl PRO.pron_cl.3p.sg-acc.common 0.cl N.common-nom.sg 0.ton V-fin.prs.act.3p.sg N.common-poss.nom.pl.common 0.cl 0.cl PRO.pron_cl.3p.sg-acc.common N.common-nom.pl N.common-acc.pl - 0.ton V-fin.imper.act.3p.pl
+PRO.pers.1p.sg-nom PRO.pron_cl.1p.sg-datrefl N.common-nom.sg A-nom.sg.common N.common-nom.sg
+0.ton 0.cl 0.cl PRO.pron_cl.1p.sg-datrefl A-nom.sg.common
+A-nom.sg.common 0.cl 0.cl PRO.pron_cl.3p.sg-acc.common N.common-acc.sg - V-fin.imper.act.3p.sg
+PRO.pron_adj-dat.sg 0.cl 0.cl N.common-poss.dat.sg N.neuter-dat.sg A-acc.sg.common N.common-acc.sg V-fin.imper.act.3p.sg 0.ton 0.cl PRO.pron_cl.3p.sg-datrefl A-nom.sg.common PRO.pron_adj-nom.sg.common N.common-nom.sg V-fin.prs.act.3p.sg 0.ton 0.cl - - - - - - - - 0.ton - V-fin.imper.act.3p.sg
+0.ton 0.cl PRO.pron_cl.1p.sg-dat PRO.pron_adj-acc.sg.common N.common-acc.sg PRO.pron_adj-nom.sg.common N.common-nom.sg V-fin.pst.act.3p.sg 0.ton 0.cl PRO.pron_cl.1p.sg-dat - PRO.pron_adj-acc.pl.neuter A-acc.pl.neuter N.neuter-acc.pl V-fin.pst.act.1p.sg 0.cl PRO.pron_cl.1p.sg-datrefl - PRO.pron_adj-acc.sg.neuter N.neuter-acc.sg V-fin.pst.act.1p.sg
+0.ton 0.cl PRO.pron_adj-nom.sg.common N.common-nom.sg PRO.pron_adj-nom.sg.common - V-fin.prs.med.3p.sg 0.ton N.common-nom.sg 0.ton 0.cl PRO.pron_cl.3p.sg-nom.common N.common-nom.sg 0.ton 0.cl 0.ton V-fin.pst.act.1p.sg N.neuter-dat.sg - N.common-dat.sg 0.cl
+- PRO.pron_adj-acc.sg.neuter 0.cl 0.cl N.neuter-acc.sg - PRO.pron_adj-nom.sg.common N.neuter-acc.sg V-fin.prs.act.3p.sg PRO.pron_adj-gen 0.cl 0.cl N.neuter-acc.sg N.neuter-gen N.common-nom.sg 0.ton V-fin.imper.act.3p.sg - V-fin.pst.act.3p.sg N.common-nom.sg N.common-nom.sg
+0.ton 0.cl PRO.pron_cl.1p.sg-acc 0.cl PRO.pron_adj-nom.pl.common N.common-nom.pl A-dat.sg N-dat.sg V-fin.pst.act.3p.pl PRO.pron_adj-acc.sg.neuter 0.cl 0.cl PRO.pron_cl.1p.sg-dat N.neuter-acc.sg PRO.pron_adj-nom.pl.common N.common-nom.pl N.common-nom.pl N.common-nom.pl V-fin.pst.act.3p.pl
+PRO.pron_adj-acc.sg.neuter 0.cl N.common-stem N.common-acc.sg N.common-nom.sg N.common-nom.sg A-nom.sg.common N.neuter-stem N.common-nom.sg N-gen A-nom.sg.common N.common-nom.sg N.common-gen.sg V-ptcp.nom.sg.common N.common-nom.sg V-fin.pst.act.3p.sg
+N.common-nom.sg N.common-gen A-nom.sg.common N.common-nom.sg N.common-gen A-nom.sg.common A-nom.sg.common 0.ton N.common-nom.sg
+PRO.pers.1p.sg-nom 0.cl PRO.pron_cl.1p.sg-datrefl N.common-nom.sg - A-nom.sg.common N.common-nom.sg 0.ton 0.cl PRO.pron_adj-acc.pl.common N.common-acc.pl PRO.pron_adj-nom.sg.common N.common-nom.sg N.neuter-ins V-fin.pst.act.3p.sg 0.ton 0.cl 0.cl 0.cl PRO.pron_adj-acc.sg.common A-acc.sg.common N.common-acc.sg V-fin.pst.act.3p.sg 0.ton 0.cl PRO.pron_adj-dat.sg 0.ton V-fin.pst.act.3p.sg

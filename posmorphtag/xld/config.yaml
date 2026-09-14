@@ -1,0 +1,10 @@
+files:
+  sentences_all: xld-all-lexeme
+  sentences_train: xld-train-lexeme
+  sentences_dev: xld-dev-lexeme
+  sentences_test: xld-test-lexeme
+  labels_all: xld-all-tag
+  labels_train: xld-train-tag
+  labels_dev: xld-dev-tag
+  labels_test: xld-test-tag
+max_len: 53

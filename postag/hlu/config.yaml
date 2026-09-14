@@ -1,0 +1,10 @@
+files:
+  sentences_all: hlu-all-lexeme
+  sentences_train: hlu-train-lexeme
+  sentences_dev: hlu-dev-lexeme
+  sentences_test: hlu-test-lexeme
+  labels_all: hlu-all-tag
+  labels_train: hlu-train-tag
+  labels_dev: hlu-dev-tag
+  labels_test: hlu-test-tag
+max_len: 192

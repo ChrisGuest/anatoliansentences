@@ -1,0 +1,9 @@
+N.common-dat.sg N.neuter-nom.pl -
+0.ton V-fin.prs.act.3p.sg N.common-acc.pl 0 0.cl N.common-loc.sg V-fin.prs.act.3p.pl A-acc.pl.common 0.ton PRO.pron_cl.3p.sg-dat V-fin.prs.act.3p.sg N.common-acc.pl
+0.ton PRO.pron_cl.3p.sg-loc 0 0 V-fin.prs.act.3p.pl PRO.pron_adj-acc.sg.common N.common-dat.sg 0.ton N.common-dat.sg PRO.pron_adj-dat.sg
+PRO.pron_adj-acc.sg.common N.common-acc.sg 0.ton PRO.pron_adj-nom.sg.common V-fin.pst.act.3p.sg.nasalized N.common-nom.sg 0 N.common-dat.sg PRO.pron_adj-dat.sg - 0.ton N.common-dat.sg 0.ton PRO.pron_cl.3p.sg-acc PRO.pron_cl.3p.sg-dat
+PRO.pron_adj-acc.sg.common N.common-acc.sg 0.ton PRO.pron_adj-nom.sg.common V-fin.pst.act.3p.sg.nasalized N-nom.sg N.common-gen.sg N.common-nom.sg 0 N.common-dat.sg PRO.pron_adj-dat.sg 0.ton N.common-dat_loc.pl PRO.pron_adj-dat.pl
+PRO.pron_adj-acc.sg.common N.common-acc.sg 0.ton PRO.pron_adj-nom.sg.common V-fin.pst.act.3p.sg.nasalized N.common-nom.sg N.common-gen.sg N.common-nom.sg N.common-nom.sg A-nom.sg.common 0 N.common-dat.sg PRO.pron_adj-dat.sg 0.ton N.common-dat.sg 0.ton N.common-dat_loc.pl
+0.ton 0 V-fin.prs.act.3p.sg PRO.pron_adj-nom.sg.common 0.ton 0.ton PRO.pron_cl.3p.sg-dat 0 V-fin.prs.act.3p.sg 0.ton PRO.pron_cl.3p.sg-acc.common 0.ton N.common-dat.sg V-fin.prs.act.3p.sg A-dat.sg A-dat.sg
+N.common-dat.sg 0.ton PRO.pron_cl.3p.sg-dat V-fin.prs.act.3p.sg PRO.pron_adj-acc.sg.common 0.ton PRO.pron_cl.3p.sg-dat 0 V-fin.prs.act.3p.sg PRO.pron_adj-acc.sg.common 0.ton PRO.pron_cl.3p.sg-acc.common N.common-nom.sg V-fin.prs.act.3p.sg 0.ton N.common-nom.pl A-nom.pl.common
+0 V-fin.prs.act.3p.pl A-dat.sg N.common-dat.sg 0.ton N.common-acc.sg PRO.pron_adj-acc.sg.common 0.ton N.common-acc.sg 0.ton PRO.pron_cl.3p.sg-loc 0 0 V-fin.prs.act.3p.pl PRO.pron_adj-acc.sg.common

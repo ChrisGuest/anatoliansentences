@@ -1,0 +1,60 @@
+sbst sbst sbst.c dem.pron sbst.n dem.pron ptcl sbst.c sbst.coll ptcl sbst.n ptcl conj ptcl ptcl dem.pron sbst.c sbst.n ptcl pers.pron sbst.c sbst.c sbst.c
+ptcl ptcl rel.pron dem.pron sbst.n disj dem.pron sbst.c ptcl dem.pron sbst.coll disj ptcl conj ptcl dem.pron sbst.c sbst.n
+ptcl ptcl ptcl rel.pron pron vb.(d) ptcl pers.pron sbst.c adj sbst.c ptcl adj sbst.c sbst.c ptcl sbst sbst ptcl sbst.n pron pers.pron vb.(t)
+dem.pron sbst.n sbst.c sbst.c pers.pron sbst.c vb.(d) sbst.c sbst.c sbst.c pers.pron pers.pron ptcl sbst conj pers.pron ptcl sbst.c adj ptcl sbst.c vb.(t)
+dem.pron ptcl rel.pron vb.(d) sbst.n vb sbst.c sbst.n ptcl vb.(d) sbst ptcl ptcl vb adp.(?) ptcl pers.pron vb.(d) ptcl ptcl sbst.n ptcl vb.(t)
+ptcl vb.(t) vb rel.pron vb sbst.c sbst.c ptcl pers.pron ptcl vb.(d) adp sbst.c sbst.c
+sbst.n sbst.c ptcl (?) dem.pron sbst.c ptcl sbst.c sbst.n adj dem.pron ptcl sbst.n rel.pron vb.(d) ptcl pers.pron adj adj vb.(d)
+conj pers.pron vb.(t) rel.pron ptcl pers.pron (?) vb (?) sbst.c sbst.c sbst.c sbst.c sbst.c sbst.c rel.pron vb.(t) sbst.c sbst.c ptcl sbst.c ptcl sbst.c sbst.c
+ptcl refl.pron dem.pron vb.(t) sbst.c sbst.c adj sbst.c ptcl ptcl dem.pron vb.(d) rel.pron vb.(d) sbst.c ptcl sbst.n ptcl pers.pron ptcl pers.pron adj sbst.c neg vb.(d)
+dem.pron sbst.n sbst.c sbst.c adj conj pers.pron ptcl neg sbst.c adj.(?) adj sbst.c
+ptcl pers.pron adj sbst (?) sbst.c sbst rel.pron sbst.n vb.(t) adj adv ptcl neg sbst.c sbst.c sbst.c vb.(d)
+sbst.c vb adj sbst.c conj ptcl vb.(d) (?) adv sbst.c adp ptcl sbst sbst.c pers.pron ptcl dem.pron sbst.c vb.(t) (?) (?)
+vb pers.pron dem.pron.(?) sbst.c conj pers.pron ptcl vb.(t) sbst.c pers.pron ptcl N ptcl poss.pron sbst.c sbst.c sbst.c ptcl adj adv vb.(t) sbst.n
+conj ptcl ptcl adv.(?) ptcl vb.(t) sbst.c ptcl adj conj refl.pron ptcl sbst ptcl vb sbst ptcl neg ptcl pers.pron vb.(t) vb ptcl ptcl (?) sbst.c
+ptcl ptcl ptcl vb sbst.c sbst.n sbst.c ptcl vb.(t) sbst.c ptcl sbst.c adj ptcl pers.pron sbst.c sbst.c sbst.c vb.(d)
+sbst.n pers.pron ptcl vb.(d) conj ptcl rel.pron - - vb.(d) sbst ptcl sbst.c sbst.c ptcl - - - adj ptcl adv pers.pron sbst.c adp sbst - sbst.c ptcl sbst.c
+ptcl pers.pron ptcl adj (?) - - (?) sbst.c ptcl pers.pron sbst.c adj vb.(t) sbst.c vb.(d) ptcl pers.pron sbst.n adj (?) vb.(t) neg sbst.c adj adp ptcl pers.pron dem.pron - - (?) (?)
+conj ptcl vb.(t) - sbst.n sbst ptcl sbst.c pers.pron sbst.c - dem.pron ptcl (?) rel.pron vb.(d) adv ptcl rel.pron - - adj vb.(d) vb.(d) - sbst.c - - sbst.c ptcl - - ptcl pers.pron sbst.n - -
+conj ptcl - (?) sbst vb.(d) - - - sbst.c ptcl pers.pron ptcl vb
+sbst.c ptcl neg (?) vb.(t) - (?) sbst.c vb
+sbst.c ptcl ptcl rel.pron dem.pron sbst.coll vb.(d) vb.(d) sbst.c ptcl pers.pron
+ptcl pers.pron ptcl vb
+A num - - sbst adj sbst.c ptcl sbst.c adp dem.pron sbst.c sbst.n ptcl sbst ptcl ptcl rel.pron vb sbst.coll ptcl ptcl rel.pron vb ptcl pers.pron
+sbst.c sbst.c sbst.c
+sbst.c sbst.c sbst.c sbst.c
+adv.(?) sbst.c sbst.c sbst.c ptcl pers.pron sbst.c vb
+ptcl ptcl rel.pron sbst.c sbst.c pers.pron vb disj ptcl pers.pron pers.pron ptcl - disj pers.pron pers.pron pers.pron sbst.c vb rel.pron pers.pron adj vb
+ptcl pers.pron ptcl rel.pron sbst.n vb.(d) ptcl pers.pron ptcl vb.(d) rel.pron disj pers.pron pers.pron vb disj pers.pron ptcl vb.(d)
+adj rel.pron disj sbst.n disj sbst.c rel.pron vb.(t) ptcl pers.pron ptcl sbst.c adj vb.(d) pers.pron pers.pron ptcl adj sbst.n sbst.c ptcl ptcl sbst.c sbst ptcl adv vb.(t) neg pers.pron neg pers.pron sbst.c sbst.c ptcl sbst.c
+adv ptcl pers.pron sbst.c ptcl sbst.c vb ptcl ptcl pers.pron rel.pron vb.(t) ptcl sbst.c ptcl sbst.c ptcl ptcl sbst.c poss.pron ptcl ptcl pers.pron sbst.c sbst.c vb vb.(d) ptcl pers.pron - neg rel.pron sbst.c sbst.c sbst.c - vb.(d) sbst.c -
+dem.pron sbst.c dem.pron ptcl sbst.n sbst.c sbst.c sbst.c ptcl sbst.c sbst.c sbst.c rel.pron sbst.c ptcl pers.pron sbst.c sbst.c ptcl ptcl dem.pron sbst.c disj dem.pron sbst.n disj dem.pron sbst.c rel.pron vb.(d)
+- sbst.c vb.(t)
+sbst.c num sbst.c adp dem.pron sbst.c dem.pron ptcl sbst.n sbst.c sbst.c sbst.c adj vb.(t) sbst.c
+ptcl rel.pron vb.(d) ptcl pers.pron vb.(d) ptcl ptcl neg vb.(d) ptcl pers.pron sbst.c sbst.c rel.pron ptcl vb.(d) dem.pron sbst.c
+sbst.c ptcl - poss.pron - sbst.c - vb sbst.c - sbst.c
+sbst.c num sbst sbst.c adp - sbst.c sbst.c sbst.c ptcl ptcl pers.pron -
+ptcl ptcl dem.pron sbst.c rel.pron vb.(d)
+dem.pron ptcl sbst.c sbst neg vb.(d) ptcl dem.pron sbst.c sbst.c vb.(d) adp sbst.c (?) (?) rel.pron vb.(d) disj ptcl (?) dem.pron ptcl ptcl adj sbst.c - conj pers.pron -
+dem.pron sbst.c vb sbst.c sbst.c
+ptcl vb.(d) - - sbst.c neg vb.(d) rel.pron sbst.c vb.(d) disj pers.pron (?) - ptcl refl ptcl sbst.c sbst.c ptcl - (?) -
+dem.pron sbst.c sbst.c sbst.c ptcl pers.pron ptcl rel.pron vb.(d) disj dem.pron sbst.coll disj dem.pron sbst.c ptcl pers.pron sbst.c sbst.c ptcl sbst.c ptcl vb.(d)
+dem.pron sbst.c sbst.c sbst.c sbst.c ptcl ptcl ptcl vb.(d) ptcl adj sbst.c sbst.n adj sbst.c sbst.n ptcl rel.pron poss.pron sbst.c sbst.c disj poss.pron sbst sbst.n vb.(t) ptcl pers.pron sbst.c sbst.n rel.pron vb.(t)
+(?) (?) vb
+sbst.c sbst.c vb.(d)
+sbst.c pers.pron
+dem.pron sbst.coll sbst.c sbst.n ptcl pers.pron rel.pron vb.(t) disj pers.pron vb.(t) ptcl refl pers.pron vb.(d) adv pers.pron rel.pron sbst.c adv ptcl pers.pron - ptcl pers.pron sbst.c adj
+sbst.c pers.pron
+dem.pron sbst.c dem.pron ptcl sbst.coll dem.pron ptcl sbst.n vb ptcl ptcl rel.pron dem.pron sbst.c disj sbst.coll disj sbst.n vb.(d) ptcl pers.pron adj adj vb.(d)
+dem.pron sbst.c dem.pron ptcl sbst.coll - sbst.c ptcl ptcl dem.pron sbst.c
+dem.pron sbst.c - sbst.c
+sbst.c pers.pron
+sbst.c pers.pron
+dem.pron sbst.c A ptcl pers.pron adj adj vb.(d)
+sbst.c pers.pron ptcl ptcl ptcl - vb (?) ptcl pers.pron sbst.n vb.(d) pers.pron ptcl ptcl ptcl (?) sbst sbst.c sbst.c adj -
+ptcl pers.pron ptcl vb.(d) - sbst.c sbst.c ptcl sbst.c - adj adv ptcl sbst.c vb.(t) - sbst.c ptcl pers.pron adv vb.(d) - conj pers.pron vb.(d) sbst.c - vb.(t) rel.pron vb.(d) - sbst.c sbst.c ptcl (?) sbst.c
+dem.pron sbst.c sbst.c sbst.c - sbst.coll ptcl ptcl ptcl rel.pron vb.(d) dem.pron sbst.c disj dem.pron sbst.n ptcl pers.pron adj adj vb.(d)
+sbst.c num - - - sbst.c sbst.c ptcl sbst.c sbst.c conj vb ptcl sbst.c sbst.c vb.(t) (?) - - sbst.c sbst.c sbst.c sbst.c sbst.c sbst.c sbst.c vb.(d) ptcl vb.(d) - dem.pron sbst.c -
+sbst.c pers.pron
+sbst.c pers.pron
+sbst.c pers.pron
